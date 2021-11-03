@@ -1,0 +1,2 @@
+﻿  تجربة.cpp
+E:\اساسيات برمجة\c++حل مسائل الكتاب\سابتر 3 مسئلة 3\Project1\تجربة.cpp(7): error C4700: uninitialized local variable 'g' used
